@@ -1,5 +1,8 @@
+{
+  [node_id]
 # Spotdl generated files
-*.m4a
+*
+.m4a
 *.mp3
 config.yml
 Music/
@@ -113,5 +116,11 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# vscode
-.vscode
+#000000
+
+.vsc
+
+
+_[node_id]
+[BETA]
+}
