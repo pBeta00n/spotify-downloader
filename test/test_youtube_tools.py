@@ -1,4 +1,10 @@
-import os
+i<#5DOBOF
+_ro.orc
+ <HTML>_API
+##F791A7)0(
+
+
+mport os
 import builtins
 
 from spotdl import const
